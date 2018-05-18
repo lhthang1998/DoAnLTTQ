@@ -16,14 +16,14 @@ namespace Server
         private bool check = false;
         public Private(Form1 f1)
         {
-            this.Icon = Properties.Resources.chat_client;
+            this.Icon = Properties.Resources.ChatClient;
             InitializeComponent();
             form = f1;
+            
         }
 
         private void Private_Load(object sender, EventArgs e)
         {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -43,6 +43,7 @@ namespace Server
         {
             if(e.KeyCode==Keys.Enter)
             {
+                e.SuppressKeyPress = true;
                 button1.PerformClick();
             }
         }

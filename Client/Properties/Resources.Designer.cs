@@ -61,12 +61,12 @@ namespace Client.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Icon Buddy_Chat {
+        internal static System.Drawing.Bitmap _93587aaec492939d44903e477bd436f2 {
             get {
-                object obj = ResourceManager.GetObject("Buddy_Chat", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
+                object obj = ResourceManager.GetObject("93587aaec492939d44903e477bd436f2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -81,22 +81,32 @@ namespace Client.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LanChat {
+            get {
+                object obj = ResourceManager.GetObject("LanChat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon chat_blank {
+        internal static System.Drawing.Icon Noti {
             get {
-                object obj = ResourceManager.GetObject("chat_blank", resourceCulture);
+                object obj = ResourceManager.GetObject("Noti", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Bitmap Users_Chat_64 {
+        internal static System.Drawing.Icon Private_Chat {
             get {
-                object obj = ResourceManager.GetObject("Users_Chat_64", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("Private_Chat", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
     }

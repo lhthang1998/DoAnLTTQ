@@ -22,8 +22,6 @@ namespace Client
             this.Icon = Properties.Resources.chat;
             pChat = new PrivateChat(this);
             uChat = new pChatUser(this);
-            //uChat2 = new pChatUser(this);
-
             InitializeComponent();
         }
 
@@ -134,12 +132,13 @@ namespace Client
                         });
                     }    
                     break;
+                // Nhan tin nhan tu ca nhan tu server chuyen ve
                 case "PrivateMess":
                     string pfrom = cmd[1];
                     string pto = cmd[2];
                     if(pto==formLogin.textBox1.Text)
                     {
-                       uChat.richTextBox1.Text += cmd[1] + " :" + cmd[3] + "\r\n";         
+                       uChat.richTextBox1.Text += cmd[1] + " : " + cmd[3] + "\r\n";         
                     }
                     break;
                 case "pMessage":
@@ -219,6 +218,29 @@ namespace Client
         private void clearChatboxToolStripMenuItem_Click(object sender, EventArgs e)
         {
             richTextBox1.Clear();
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                button1.PerformClick();
+            }
+        }
+
+
+
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }

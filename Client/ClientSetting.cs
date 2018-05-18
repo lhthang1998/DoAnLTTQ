@@ -9,7 +9,7 @@ namespace Client
 {
     public class ClientSetting
     {
-        private string name;
+        #region Thuoc tinh
         readonly Socket socket;
         public event ReceivedEventHandler Received = delegate { };
         public delegate void ReceivedEventHandler(ClientSetting cs, string received);
@@ -17,11 +17,11 @@ namespace Client
         public delegate void DisconnectedEventHandler(ClientSetting cs);
         public event EventHandler Connected = delegate { };
         bool connect;
+        #endregion
 
         public ClientSetting()
         {
             socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-
         }
 
         public void Connect(string ip,int port)
@@ -56,7 +56,7 @@ namespace Client
             var rec = socket.EndReceive(ar);
             if (rec != 0)
             {
-                var data = UTF8Encoding.ASCII.GetString(buffer, 0, rec);
+                var data = Encoding.ASCII.GetString(buffer, 0, rec);
                 Received(this, data);
             }
             else
@@ -73,7 +73,7 @@ namespace Client
         {
             try
             {
-                var buffer = Encoding.ASCII.GetBytes(s);
+                var buffer =Encoding.ASCII.GetBytes(s);
                 socket.BeginSend(buffer, 0, buffer.Length, SocketFlags.None, SendCallback, buffer);
             }
             catch
@@ -87,13 +87,6 @@ namespace Client
             socket.EndSend(ar);
         }
         
-        public void setName(string s)
-        {
-            name = s;
-        }
-        public string Name()
-        {
-            return name;
-        }
+
     }
 }

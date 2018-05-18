@@ -12,7 +12,6 @@ C:\Users\Asus\Desktop\CucKiQuanTrong\Client\Client\bin\Debug\MySql.Data.DLL
 C:\Users\Asus\Desktop\CucKiQuanTrong\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\bin\Debug\Client.exe
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\bin\Debug\Client.pdb
-C:\Users\Asus\Desktop\BT4_16521098\Client\Client\bin\Debug\MySql.Data.DLL
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.FormLogin.resources
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.pChatUser.resources
@@ -23,3 +22,5 @@ C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.csproj.Generat
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.exe
 C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.pdb
+C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\BT4_16521098\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache

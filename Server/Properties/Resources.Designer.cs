@@ -63,9 +63,9 @@ namespace Server.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon chat_client {
+        internal static System.Drawing.Icon ChatClient {
             get {
-                object obj = ResourceManager.GetObject("chat_client", resourceCulture);
+                object obj = ResourceManager.GetObject("ChatClient", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Server.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon Ichat {
+        internal static System.Drawing.Icon Home {
             get {
-                object obj = ResourceManager.GetObject("Ichat", resourceCulture);
+                object obj = ResourceManager.GetObject("Home", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }

@@ -13,8 +13,9 @@ namespace Server
 {
     public partial class Form1 : Form
     {
-        
+
         #region Thuoc tinh
+       
         private readonly Listener listener;
         private Private pChat;
         public List<Socket> clients = new List<Socket>(); //Luu tru tat ca cac Client vao list
@@ -36,7 +37,7 @@ namespace Server
         }
         public Form1()
         {
-            this.Icon = Properties.Resources.Ichat;
+            this.Icon = Properties.Resources.Home;
             pChat = new Private(this);
             InitializeComponent();
             listener = new Listener(2018);
@@ -216,6 +217,7 @@ namespace Server
         {
             foreach (var client in from ListViewItem item in listView1.SelectedItems select (Client)item.Tag)
             {
+                        
                 client.SendData("Chat|");
                 pChat = new Private(this);
                 pChat.Show();
@@ -228,9 +230,33 @@ namespace Server
             richTextBox1.Clear();
         }
 
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        // Save list nguoi dang nhap vao file txt
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            using(SaveFileDialog file=new SaveFileDialog() { Filter = "Text Documents|*.txt", ValidateNames = true })
+            {
+                if(file.ShowDialog()==DialogResult.OK)
+                {                  
+                    using (StreamWriter sw = new StreamWriter(file.FileName,true))
+                    {
+                       sw.WriteLine(DateTime.Now.ToString() + "\n");
+                       foreach (ListViewItem item in listView1.Items)
+                       {
+                            sw.WriteLine(item.SubItems[0].Text + ":" + item.SubItems[1].Text);
+                       }
+                       
+                    }
+                }
+            }
+        }
 
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode==Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                button1.PerformClick();
+            }
         }
     }
 }

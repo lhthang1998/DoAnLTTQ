@@ -26,7 +26,7 @@ namespace Client
         }
         public pChatUser(PublicChat f1)
         {
-            this.Icon = Properties.Resources.Buddy_Chat;
+            this.Icon = Properties.Resources.Private_Chat;
             InitializeComponent();
             pChat = f1;
         }
@@ -40,7 +40,7 @@ namespace Client
             if (textBox1.Text != string.Empty)
             {
                 pChat.formLogin.client.SendData("PrivateFromTo|" + From + "|" +To+"|"+ textBox1.Text);
-                richTextBox1.Text += From + " :" + textBox1.Text + "\r\n";
+                richTextBox1.Text += From + " : " + textBox1.Text + "\r\n";
                 textBox1.Text = string.Empty;
             }
         }
@@ -59,6 +59,15 @@ namespace Client
         public void setCheck()
         {
             check = false;
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                button1.PerformClick();
+            }
         }
     }
 }
