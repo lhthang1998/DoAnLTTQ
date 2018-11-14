@@ -1,0 +1,142 @@
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.pdb
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.MultiLanguage.Resource.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\bin\Debug\en-US\Client.resources.dll
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\bin\Debug\vi-VN\Client.resources.dll
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.MultiLanguage.Resource.en-US.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\Client.MultiLanguage.Resource.vi-VN.resources
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\en-US\Client.resources.dll
+C:\Users\Asus\Desktop\New folder (2)\Client\Client\obj\Debug\vi-VN\Client.resources.dll
+C:\Users\Asus\Desktop\Update\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\Update\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\Update\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\Update\Client\Client\obj\Debug\Client.pdb
+C:\Users\Asus\Desktop\Family\Update\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\Family\Update\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\Family\Update\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.SignUp.resources
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\Family\Update\Client\Client\obj\Debug\Client.pdb
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.GroupChat.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.SignUp.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\Family\Update dung SQL\Client\Client\obj\Debug\Client.pdb
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.exe
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.pdb
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Interop.WMPLib.dll
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.GroupChat.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Login.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.MainChat.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateChat.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateUser.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.SignUp.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CopyComplete
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.exe
+E:\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.pdb
+C:\Users\Asus\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.GroupChat.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.SignUp.resources
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.exe
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.pdb
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.GroupChat.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.SignUp.resources
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.exe
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.exe
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Client.pdb
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.GroupChat.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.MainChat.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.PrivateUser.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.SignUp.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.exe
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Client\Client\obj\Debug\Client.pdb

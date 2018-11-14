@@ -1,0 +1,98 @@
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\bin\Debug\Server.exe
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.exe
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.Main.resources
+C:\Users\Asus\Desktop\New folder (2)\Server\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Asus\Desktop\Update\Server\Server\bin\Debug\Server.exe
+C:\Users\Asus\Desktop\Update\Server\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Desktop\Update\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Update\Server\Server\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.Main.resources
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.exe
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Desktop\Update\Server\Server\obj\Debug\Server.About.resources
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.About.resources
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.Main.resources
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.exe
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Desktop\Family\Update\Server\Server\bin\Debug\Server.exe
+C:\Users\Asus\Desktop\Family\Update\Server\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Desktop\Family\Update\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Family\Update\Server\Server\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\Family\Update\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\bin\Debug\Server.exe
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.About.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.Main.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.exe
+C:\Users\Asus\Desktop\Family\Update dung SQL\Server\Server\obj\Debug\Server.pdb
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.exe
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.pdb
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\MetroFramework.dll
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.About.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Main.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.PrivateChat.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.exe
+E:\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.pdb
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.exe
+C:\Users\Reborn Le\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.pdb
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.exe
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.pdb
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.About.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Main.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.exe
+C:\Users\Asus\Desktop\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.pdb
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.exe
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Server.pdb
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\bin\Debug\MetroFramework.dll
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.About.resources
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Main.resources
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.PrivateChat.resources
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.exe
+E:\DoAn\LapTrinhTrucQuan\Update dung SQL\Server\Server\obj\Debug\Server.pdb
